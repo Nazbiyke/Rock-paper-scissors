@@ -1,4 +1,5 @@
-*Rock–Paper–Scissors Game of Life*
+***Rock–Paper–Scissors Game of Life***
+
 **Project Description**
 This project is my attempt to create a simplified Rock–Paper–Scissors version of Conway’s Game of Life. I was inspired by a TikTok video showing groups of “rocks,” “scissors,” and “papers” moving randomly and transforming when they encountered each other. When two elements met:
 - Scissors that touched rocks became rocks
