@@ -10,12 +10,14 @@ This project is my attempt to create a simplified Rock–Paper–Scissors versio
 Based on that idea, I decided to build my own minimal implementation. For reference, I used an example code provided on OCS.
 
 **Rules of the Simulation**
+
 Cell Types
 - Rock = black
 - Scissors = yellow
 - Paper = pink
 
 **Interaction Rules**
+
 The logic follows the classic Rock–Paper–Scissors cycle:
 - Scissors beat Paper
 - Paper beats Rock
