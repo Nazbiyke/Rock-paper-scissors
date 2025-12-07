@@ -23,7 +23,7 @@ The logic follows the classic Rock–Paper–Scissors cycle:
 - Paper beats Rock
 - Rock beats Scissors
 
-**Survival Rules**
+### **Survival Rules**
 
  A cell survives under the following conditions:
 1. It is stronger than its neighbor(s).
